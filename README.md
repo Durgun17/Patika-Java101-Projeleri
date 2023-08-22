@@ -1,4 +1,10 @@
 # Patika-Java101-Projeleri
 <code>
-java 101
+Patika.dev Java 101 Projeleri 
+
+Projeler
+Manav Programı
+Dairenin alanı ve çevresini hesaplama programı
+Vücut kitle indeskini hesaplama programı
+
 </code>
